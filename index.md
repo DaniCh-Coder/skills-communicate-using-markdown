@@ -24,3 +24,18 @@ _adding **code** to this file :tada: with those inverted apostrofes:_
 ```python
 print(f"Hello World")
 ```
+
+## Make a task list
+
+_adding **tasks lists** :partying_face:_
+
+A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. If you include a task list in the body of an issue or pull request, you'll see a progress indicator in your issue list. The syntax for task lists is very specific. Be sure to include the spaces where required, or else they won't render.
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+And the code to make the list is very simple, like this:
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+```
